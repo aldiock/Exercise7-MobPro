@@ -1,0 +1,98 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 7,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg"
+    },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg"
+    },
+    {
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+      "id": 10,
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": 11,
+      "email": "george.edwards@reqres.in",
+      "first_name": "George",
+      "last_name": "Edwards",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+      "email": "diochristo05@gmail.com",
+      "first_name": "Aldio",
+      "last_name": "Kaminang",
+      "avatar": "https://ui-avatars.com/api/?name=Aldio Kaminang",
+      "id": 12
+    },
+    {
+      "email": "kaminanganjelita@gmail.com",
+      "first_name": "Anjelita",
+      "last_name": "Ferensca",
+      "avatar": "https://ui-avatars.com/api/?name=Anjelita Ferensca",
+      "id": 13
+    },
+    {
+      "email": "ungkepolo@gmail.com",
+      "first_name": "Ungke ",
+      "last_name": "Polo",
+      "avatar": "https://ui-avatars.com/api/?name=Ungke  Polo",
+      "id": 14
+    },
+    {
+      "email": "aldiock@gmail.com",
+      "first_name": "Christo",
+      "last_name": "Kaminang",
+      "avatar": "https://ui-avatars.com/api/?name=Christo Kaminang",
+      "id": 15
+    },
+    {
+      "email": "christian77@gmail.com",
+      "first_name": "Christian",
+      "last_name": "Ronaldo",
+      "avatar": "https://ui-avatars.com/api/?name=Christian Ronaldo",
+      "id": 16
+    },
+    {
+      "email": "ungkeskober@gmail.com",
+      "first_name": "Skober ",
+      "last_name": "Peter",
+      "avatar": "https://ui-avatars.com/api/?name=Skober  Peter",
+      "id": 17
+    }
+  ]
+}
